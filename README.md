@@ -4,7 +4,7 @@ A fully functional calculator built with React, Next.js, and Tailwind CSS,
 featuring a custom dark-themed UI with tactile, "pressable" buttons.
 
 ## Live demo
-[Add your Vercel link here once deployed]
+https://calculator001-five.vercel.app/
 
 ## Features
 - Standard arithmetic: addition, subtraction, multiplication, division
